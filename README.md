@@ -4,7 +4,7 @@ Hi my name is Connor Pfeiffer. Currently I'm a Business Administration student w
 
 ## LABS
 
-[Lab 1]() --- Setup Visual Studio Code on your personal computer, practice terminal commands, practice keyboard shortcuts and create your Node.js server-side JavaScript file 
+[Lab 1](https://connor-pfeiffer.github.io/cit281-lab1) --- Setup Visual Studio Code on your personal computer, practice terminal commands, practice keyboard shortcuts and create your Node.js server-side JavaScript file 
 
 [Lab 2]() --- CLI command practice, install git, practice creating git repositories, version control, using git to ignore files and cloning cloud repos locally
 
