@@ -6,21 +6,21 @@ Hi my name is Connor Pfeiffer. Currently I'm a Business Administration student w
 
 [Lab 1](https://connor-pfeiffer.github.io/cit281-lab1) --- Setup Visual Studio Code on your personal computer, practice terminal commands, practice keyboard shortcuts and create your Node.js server-side JavaScript file 
 
-[Lab 2]() --- CLI command practice, install git, practice creating git repositories, version control, using git to ignore files and cloning cloud repos locally
+[Lab 2](https://connor-pfeiffer.github.io/cit281-lab2) --- CLI command practice, install git, practice creating git repositories, version control, using git to ignore files and cloning cloud repos locally
 
-[Lab 3]() --- Practice with code modules, arrow functions, object destructuring, for..in loops and for..of loops and array methods
+[Lab 3](https://connor-pfeiffer.github.io/cit281-lab3) --- Practice with code modules, arrow functions, object destructuring, for..in loops and for..of loops and array methods
 
-[Lab 4]() --- Node.js web server with Fastify
+[Lab 4](https://connor-pfeiffer.github.io/cit281-lab4) --- Node.js web server with Fastify
 
-[Lab 5]() --- Postman, Node.js and fastify server application, HTTP verbs, routes
+[Lab 5](https://connor-pfeiffer.github.io/cit281-lab5) --- Postman, Node.js and fastify server application, HTTP verbs, routes
 
-[Lab 6]() --- How to make classes using constructor functions, function expressions and lambda expressions
+[Lab 6](https://connor-pfeiffer.github.io/cit281-lab6) --- How to make classes using constructor functions, function expressions and lambda expressions
 
-[Lab 7]() --- Creating GitHub organization & repo, cloning repositories, inheritance and error handling using try catch and finally
+[Lab 7](https://connor-pfeiffer.github.io/cit281-lab7) --- Creating GitHub organization & repo, cloning repositories, inheritance and error handling using try catch and finally
 
-[Lab 8]() --- Client and Server applications - Promises, fetch, node-fetch
+[Lab 8](https://connor-pfeiffer.github.io/cit281-lab8) --- Client and Server applications - Promises, fetch, node-fetch
 
-[Lab 9]() --- GitHub Learning Lab: Create a release based workflow course
+[Lab 9](https://connor-pfeiffer.github.io/cit281-lab9) --- GitHub Learning Lab: Create a release based workflow course
 
 
 ## PROJECTS
