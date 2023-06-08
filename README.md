@@ -2,7 +2,7 @@
 
 Hi my name is Connor Pfeiffer. Currently I'm a Business Administration student with a CIT minor at the University of Oregon.
 
-![computer-science.jpg](computer-science.jpg)
+![computer-science.png](computer-science.png)
 
 ## LABS
 
