@@ -2,6 +2,8 @@
 
 Hi my name is Connor Pfeiffer. Currently I'm a Business Administration student with a CIT minor at the University of Oregon.
 
+[p1-folders.png](computer-science.jpg)
+
 ## LABS
 
 [Lab 1](https://connor-pfeiffer.github.io/cit281-lab1) --- Setup Visual Studio Code on your personal computer, practice terminal commands, practice keyboard shortcuts and create your Node.js server-side JavaScript file 
